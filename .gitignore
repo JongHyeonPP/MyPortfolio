@@ -1,25 +1,7 @@
-﻿# Unreal Engine common
-Binaries/
-DerivedDataCache/
-Intermediate/
-Saved/
-.vs/
-.vscode/
-*.VC.db
-*.VC.opendb
-*.sln
-*.suo
-*.user
-*.userprefs
-*.pdb
-*.ipch
-*.aps
-*.tmp
-*.log
-
-# Packaging output
-Package/
-PackagedBuilds/
-*.pak
-*.ucas
-*.utoc
+/build
+/.gradle
+*.class
+*.jar
+.DS_Store
+.idea
+*.iml
